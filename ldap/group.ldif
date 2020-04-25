@@ -1,0 +1,5 @@
+dn: cn=test1grp,ou=groups,dc=nodomain
+objectClass: posixGroup
+objectClass: top
+cn: test1grp
+gidNumber: 1100
