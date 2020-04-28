@@ -1,0 +1,13 @@
+dn: dc=abc,dc=def,dc=com
+objectClass: dcObject
+objectClass: organization
+dc: abc
+o: AbcDef Inc.
+
+dn: ou=People,dc=abc,dc=def,dc=com
+objectClass: organizationalUnit
+ou: People
+
+dn: ou=Group,dc=abc,dc=def,dc=com
+objectClass: organizationalUnit
+ou: Group

@@ -1,0 +1,12 @@
+dn: uid=test5,cn=test2grp,ou=groups,dc=nodomain
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: test5
+sn: Linux
+userPassword: {SSHA}BpVPGy3aj8VYwz+C8XZJ+j1KuxeczuWu
+loginShell: /bin/bash
+uidNumber: 1103
+gidNumber: 1103
+homeDirectory: /home/test5
+mail: test5@nodomain

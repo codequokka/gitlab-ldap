@@ -1,0 +1,5 @@
+dn: cn=ldapmanager,ou=groups,dc=nodomain
+objectClass: posixGroup
+objectClass: top
+cn: ldapmanager
+gidNumber: 1104

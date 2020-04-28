@@ -1,0 +1,1 @@
+ldappasswd -x -D "uid=test1,ou=people,dc=nodomain" -S -w password "uid=test1,ou=people,dc=nodomain"
